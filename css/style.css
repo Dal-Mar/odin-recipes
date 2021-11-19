@@ -1,0 +1,82 @@
+/* DALMAR styles for odin-recipes. &quot; is entity for " */
+
+body {
+	background-color: #94b863;
+}
+
+section {
+	margin: 35px auto;
+	background-color: #013431;
+	color: #fff;
+	border: 6px double #fff;
+	font-family: 'Amatic SC', cursive;
+	font-weight: 400;
+	width: 60%;
+	height: 25%;
+	padding: 10px 60px;
+}
+
+span {
+	position: relative;
+	left: 6px;
+}
+
+.heading {
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+
+.margin {
+	margin-bottom: 50px;
+}
+
+h1 {
+	font-size: 65px;
+	margin-top: 10px;
+	margin-left: 0px;
+	margin-bottom: 15px;
+}
+
+h2 {
+	font-size: 45px;
+	margin: 0;
+}
+
+/* Sets the bullet to a "star" character */
+ul,
+ol {
+	list-style-type: "*";
+	font-size: 35px;
+	margin: 0 0px;
+}
+
+ol {
+	list-style-type: upper-roman;
+	margin-bottom: 30px;
+}
+
+figcaption {
+	font-size: 35px;
+	margin: 15px;
+}
+
+a {
+	border-bottom: 1px solid;
+}
+
+a:link {
+	color: #ff00ff;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #ff00ff;
+}
+
+a:hover {
+	color: #7cfc00;
+}
+
+a:active {
+	color: #7cfc00;
+}
